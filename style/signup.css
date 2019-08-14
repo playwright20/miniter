@@ -1,0 +1,42 @@
+ *{
+    box-sizing: border-box;
+    border-radius: 5px;
+  }
+  
+  div{
+      display:block;
+  }
+
+  .signup-wrapper h1 {
+      text-align : center;
+  }
+
+  .user-signup-wrapper {
+    width: 300px;
+    margin: 20px auto;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: auto;
+    margin-bottom: auto;
+    padding: 20px;
+  }
+
+  .submit-button{
+    border-radius:100px;
+    box-shadow: none;
+    text-align: center;
+    font-size: 14px;
+    font-weight: bold;
+    line-height:20px;
+    padding:6px 16px;
+    position:relative;
+    white-space: nowrap;
+    background-color: #1da1f2;
+    border:1px solid #1da1f2;
+    color: #fff;
+    cursor: pointer;
+    opacity: 0.85;
+  }
+
+  
+   
